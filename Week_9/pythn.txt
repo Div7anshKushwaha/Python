@@ -1,0 +1,9 @@
+divyansh
+kushwaha
+java
+c++
+python
+
+sql
+rust
+js
